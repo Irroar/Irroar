@@ -7,7 +7,7 @@ Web Developer
 Young driven software engineer. In love with javascript ❤️ I'm learning something new every day 🚀
 
 * 🌍  I'm based in Greater Toronto Area, Ontario, Canada
-* ✉️  You can contact me at [w.iryna.lytvynenko@gmail.com](mailto:w.iryna.lytvynenko@gmail.com)
+* ✉️  You can contact me at [ca.iryna.lytvynenko@gmail.com](mailto:ca.iryna.lytvynenko@gmail.com)
 * 🌱  REACTive developer
 * ⚡  Addicted to fishing
 
