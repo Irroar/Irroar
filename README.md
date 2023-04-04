@@ -8,7 +8,7 @@ Young driven software engineer. In love with javascript ❤️ I'm learning some
 
 * 🌍  I'm based in Greater Toronto Area, Ontario, Canada
 * ✉️  You can contact me at [w.iryna.lytvynenko@gmail.com](mailto:w.iryna.lytvynenko@gmail.com)
-* 🌱  I'm currently learning React
+* 🌱  REACTive developer
 * ⚡  Addicted to fishing
 
 ### Skills
@@ -31,4 +31,4 @@ Young driven software engineer. In love with javascript ❤️ I'm learning some
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/irroar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/irynalytvynenko" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/irroar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/litvinenko-iryna/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
